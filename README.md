@@ -4,7 +4,7 @@
 
 [wallheaven](https://wallhaven.cc/)
 
-![截图](屏幕快照 2019-06-09 下午7.15.56.png)
+![截图](https://github.com/Flionay/get_wallpaper/blob/progress/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-06-09%20%E4%B8%8B%E5%8D%887.15.56.png)
 
 ## 主要学习任务
 
