@@ -4,7 +4,7 @@
 
 [wallheaven](https://wallhaven.cc/)
 
-![截图](/Users/angyi/Desktop/get_wallpaper/屏幕快照 2019-06-09 下午7.15.56.png)
+![截图](屏幕快照 2019-06-09 下午7.15.56.png)
 
 ## 主要学习任务
 
